@@ -1,0 +1,64 @@
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=56
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=52
+[guardrails] _check stage=tool_args bundle=yes len=37
+[guardrails] _check stage=output bundle=yes len=140
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=52
+[guardrails] _check stage=tool_args bundle=yes len=37
+[guardrails] _check stage=output bundle=yes len=190
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=52
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=54
+[guardrails] _check stage=tool_args bundle=yes len=37
+[guardrails] _check stage=tool_result bundle=yes len=330
+[guardrails] _check stage=output bundle=yes len=164
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=54
+[guardrails] _check stage=tool_args bundle=yes len=37
+[guardrails] _check stage=tool_result bundle=yes len=330
+[guardrails] _check stage=output bundle=yes len=165
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=54
+[guardrails] _check stage=tool_args bundle=yes len=37
+[guardrails] _check stage=tool_result bundle=yes len=330
+[guardrails] _check stage=output bundle=yes len=121
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=52
+[guardrails] _check stage=tool_args bundle=yes len=37
+[guardrails] _check stage=tool_result bundle=yes len=330
+[guardrails] _check stage=output bundle=yes len=159
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=54
+[guardrails] _check stage=tool_args bundle=yes len=37
+[guardrails] _check stage=tool_result bundle=yes len=330
+[guardrails] _check stage=output bundle=yes len=116
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=54
+[guardrails] _check stage=tool_args bundle=yes len=37
+[guardrails] _check stage=tool_result bundle=yes len=330
+[guardrails] _check stage=output bundle=yes len=113
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=54
+[guardrails] _check stage=tool_args bundle=yes len=37
+[guardrails] _check stage=tool_result bundle=yes len=330
+[guardrails] _check stage=output bundle=yes len=164
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] _check stage=input bundle=yes len=54
+[guardrails] _check stage=tool_args bundle=yes len=37
+[guardrails] _check stage=tool_result bundle=yes len=330
+[guardrails] _check stage=output bundle=yes len=156
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] init: stages=['input', 'tool_result', 'tool_args', 'output'] fail_closed=True
+[guardrails] init: stages=['input', 'tool_args'] fail_closed=True
+[guardrails] init: stages=['input', 'tool_args'] fail_closed=True
+[guardrails] init: stages=['input', 'tool_args'] fail_closed=True
+[guardrails] init: stages=['input', 'tool_args'] fail_closed=True
+[guardrails] init: stages=['input', 'tool_args'] fail_closed=True
+[guardrails] init: stages=['tool_args'] fail_closed=True
+[guardrails] init: stages=['tool_args'] fail_closed=True
